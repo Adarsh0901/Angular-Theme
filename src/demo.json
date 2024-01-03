@@ -1,0 +1,10 @@
+{
+    "themeName":"NSDLtheme",
+    "values": {
+        "--navbar-background-color":"#fadd6b",
+        "--navbar-text-color":"black",
+        "--card-background-color":"#f5e190",
+        "--card-text-color":"black",
+        "--card-button-background-color": "#f0cd41"
+    }
+}

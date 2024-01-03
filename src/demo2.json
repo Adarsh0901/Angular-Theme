@@ -1,0 +1,10 @@
+{
+    "themeName":"UnifiedTheme",
+    "values": {
+        "--navbar-background-color":"#2848B9",
+        "--navbar-text-color":"#E2EEFA",
+        "--card-background-color":"#E0E3FB",
+        "--card-text-color":"#662BC2",
+        "--card-button-background-color": "#662BC2"
+    }
+}

@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+
+:root{
+    --navbar-background-color:red;
+    --navbar-text-color:white;
+    --card-background-color:#c6d3f5;
+    --card-text-color:#1f5ded;
+    --card-button-background-color: #9b42f5;
+}
+
+.navbar{
+    background-color: var(--navbar-background-color);
+}
+
+.text-color{
+    color: var(--navbar-text-color);
+}
+
+.card{
+    background-color: var(--card-background-color);
+    color: var(--card-text-color);
+}
+
+.card-button{
+    background-color: var(--card-button-background-color);
+    color: var(--navbar-text-color);
+}
