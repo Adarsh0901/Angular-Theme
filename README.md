@@ -21,8 +21,8 @@ Where <br>
   &ensp;&ensp;`<theme-name>` can be the name of the theme in string format.<br>
   &ensp;&ensp;`<color-code>` can be the color code (eg,. hex,string,etc) in string format.
 
-Run `npm install -g http-server` to intall http-server, or follow [http-server document](https://www.npmjs.com/package/http-server) for more details.<br>
-Run `http-server --watch themes.json` to make use of API's to get and store themes.<br>
+Run `npm install -g json-server` to intall json-server, or follow [json-server document](https://www.npmjs.com/package/json-server) for more details.<br>
+Run `json-server --watch themes.json` to make use of API's to get and store themes.<br>
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.<br>
 
 ## Build
